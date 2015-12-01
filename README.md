@@ -6,10 +6,10 @@ ___"写到最后我整个人都GO了"___
 * [http://hackathon.ele.me](http://hackathon.ele.me)
 
 ## Depends
-* [README](https://github.com/WhiteBlue/eleme_hackathon/src/README.md)
+* [README](https://github.com/WhiteBlue/eleme_hackathon/blob/master/src/README.md)
 
 ## 接口文档
-* [README](https://github.com/WhiteBlue/eleme_hackathon/src/spec.md)
+* [README](https://github.com/WhiteBlue/eleme_hackathon/blob/master/spec.md)
 
 ## 本地
 * 运行launch.sh
